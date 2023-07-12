@@ -14,7 +14,6 @@ Eu resumi os tópicos do meu aprendizado em:
 - [x] Componentes básicos
 - [x] Programação no Arduino
 - [x] Projetos
-  - [x] Piscando Leds
   - [x] Semáforo
   - [x] Piano
   - [x] Alarme - Sensor com Luz e com Barulho
