@@ -7,7 +7,7 @@
 
 O conteúdo que será abordado nesse repositório foi elaborado graças ao Kit Iniciante V8 Arduino. Trata-se de um kit didático em que ensina sobre os componentes básicos
 do Arduino e realiza projetos de nível iniciante para aqueles que estão aprendendo sobre o mundo da programação e da eletrônica. Eu, Mariana Pedroso Naves, adquiri o produto
-por conta própria e resolvi relatar o meu aprendizado no GitHub e no Tinkercad ([Link da minha página no Tinkercad](https://www.arduino.cc/en/Guide/Introduction)). 
+por conta própria e resolvi relatar o meu aprendizado no GitHub e no Tinkercad ([Link da minha página no Tinkercad](https://www.tinkercad.com/users/jS1nT7hYXT1). 
 Não há qualquer vínculo financeiro, patrocínio, ou algo do gênero com a empresa Robocore. Caso você queira adquirir o kit ([Link do Kit Iniciante e Avançado](https://www.robocore.net/kit-arduino/arduino-master-kit)), eu recomendo totalmente!
 
 Eu resumi os tópicos do meu aprendizado em:
