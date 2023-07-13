@@ -47,6 +47,6 @@ Todos os componentes listados são adquiridos no kit da Robocore, e eles vendem 
   
 - [Garra Robótica Ant](https://github.com/maripnv/InicianteArduino/assets/82036846/af855855-92be-435f-9e5b-3853a2b63e98): Ela possui uma abertura de 7,4 cm, e consegue segurar pequenos objetos na sua ponta, por exemplo um lápis.
   
-- [Protoboard 400](https://github.com/maripnv/InicianteArduino/assets/82036846/fb8155f3-49bf-4ce5-bb10-8b26f9b29fb4): Matriz de contato com 400 pontos que permite conectar componentes eletrônicos sem a necessidade de solda.
+- [Protoboard 400](https://github.com/maripnv/InicianteArduino/assets/82036846/fb8155f3-49bf-4ce5-bb10-8b26f9b29fb4): Matriz de contato com 400 pontos que permite conectar componentes eletrônicos sem a necessidade de solda. Clique [aqui](https://github.com/maripnv/InicianteArduino/assets/82036846/d02e1386-61ad-4e1e-95cd-e1567858c4bc) para saber um pouco mais sobre a protoboard, essa se trata de uma matriz de contato com 830 pontos :slightly_smiling_face: .
   
 - [Jumpers](https://github.com/maripnv/InicianteArduino/assets/82036846/28698964-1714-40ed-bcac-ab7c067d5f9e): Cabos com conectores nas extremidades que permitem conectar os componentes entre si por meio da protoboard.
